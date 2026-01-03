@@ -1,4 +1,5 @@
-# CodeBuilder
-welcome to this project
-the project theres this a app for create ias and chat
-bots in java!
+# ChatWithBot Ai
+An app to make ai apps with gpt models!
+
+> models (gpt)
+> code by Rafacraft-Coder
